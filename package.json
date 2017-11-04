@@ -1,0 +1,27 @@
+{
+  "name": "typeorm-extra",
+  "version": "1.0.0-rc.0",
+  "description": "Extensions to the TypeORM framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/goulash1971/typeorm-extra.git"
+  },
+  "keywords": [
+    "typeorm"
+  ],
+  "author": "Stuart Hudson <goulash1971@yahoo.com>",
+  "licenses": [
+    {
+      "type": "The MIT License",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/goulash1971/typeorm-extra/issues"
+  },
+  "homepage": "https://github.com/goulash1971/typeorm-extra#readme"
+}
